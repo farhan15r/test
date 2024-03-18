@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js",
+    "build": "node -v"
+  },
   "dependencies": {
     "express": "^4.18.3"
   }
